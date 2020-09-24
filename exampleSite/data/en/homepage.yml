@@ -56,8 +56,8 @@ about_product:
       label: Check Features
       link: "#"
 products:
-  enable: false
-  title: Checkout Our All Products
+  enable: true
+  title: Checkout About Our Upcoming Tournaments.
 subscription:
   enable: false
   bg_image: images/call-to-action.jpg
