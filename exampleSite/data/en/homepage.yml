@@ -34,7 +34,7 @@ promo:
   title: About
   content: We'll be hosting free tournaments and paid tournaments for you all.
 about_product:
-  enable: true
+  enable: false
   title: Why Choose Apple Watch
   items:
   - image: images/showcase/showcase-4.png
