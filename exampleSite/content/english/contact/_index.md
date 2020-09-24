@@ -1,6 +1,6 @@
 ---
 title: Contact
-description: this is a meta description
+description: ''
 office:
   title: Dice Office
   mobile: ''
@@ -8,14 +8,8 @@ office:
   location: India
   content: Contact us on @call.of.duty_tournaments for any queries.
 opennig_hour:
-  title: Opening Hours
+  title: Time at when you can contact us
   day_time:
-  - 'Monday: 9:00 – 19:00'
-  - 'Tuesday: 9:00 – 19:00'
-  - 'Wednesday: 9:00 – 19:00'
-  - 'Thursday: 9:00 – 19:00'
-  - 'Friday: 9:00 – 19:00'
-  - 'Saturday: 9:00 – 19:00'
-  - 'sunday: 9:00 – 19:00'
+  - ''
 
 ---
