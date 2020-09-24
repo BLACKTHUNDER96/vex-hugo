@@ -12,22 +12,10 @@ banner:
     label: ''
     link: ''
 features:
-  enable: true
-  title: Our Core Features
-  image: images/watch-2.png
-  left_side:
-  - title: Smooth Touch
-    icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Elegant Design
-    icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Easy Pricing
-    icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+  enable: false
+  title: ''
+  image: ''
+  left_side: []
   right_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
@@ -43,12 +31,9 @@ features:
       inventore?
 promo:
   enable: true
-  image: images/watch.png
-  title: Designed by professional , the benefit for creative gigs
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  image: ''
+  title: About
+  content: We'll be hosting free tournaments and paid tournaments for you all.
 about_product:
   enable: true
   title: Why Choose Apple Watch
