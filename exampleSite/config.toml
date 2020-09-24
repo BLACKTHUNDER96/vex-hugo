@@ -16,8 +16,18 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[menu]
-footer = []
+[[menu.footer]]
+URL = "terms-conditions"
+name = "Terms & Conditions"
+weight = 3
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 2
+[[menu.footer]]
+URL = "blog"
+name = "Blog"
+weight = 1
 [[menu.main]]
 URL = "/"
 name = "Home"
