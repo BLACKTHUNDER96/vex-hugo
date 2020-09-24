@@ -4,9 +4,8 @@ banner:
   title: We're always here for you.
   content: |2-
 
-    All The Tournament Related Details Will Be Uploaded Here From Now O
-    n.
-  image: Pictures/Camera Roll/DT
+    All The Tournament Related Details Will Be Uploaded Here From Now On.
+  image: DT.png
   button:
     enable: false
     label: ''
