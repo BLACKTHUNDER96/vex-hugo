@@ -4,7 +4,7 @@ description: this is a meta description
 office:
   title: Dice Office
   mobile: ''
-  email: ''
+  email: dicetournments@gmail.com
   location: India
   content: Contact us on @call.of.duty_tournaments for any queries.
 opennig_hour:
