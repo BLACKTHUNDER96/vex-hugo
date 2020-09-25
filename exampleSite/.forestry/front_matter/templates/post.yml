@@ -15,4 +15,5 @@ fields:
   name: description
   label: description
 pages:
+- exampleSite/content/english/blog/pricing-of-our-paid-tournaments.20191203072044
 - exampleSite/data/en/homepage.yml
