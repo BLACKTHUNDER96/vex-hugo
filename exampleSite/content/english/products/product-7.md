@@ -1,6 +1,6 @@
 ---
 title: Crisis Tournament
-date: 2020-10-02T12:50:36+00:00
+date: 
 images:
 - images/showcase/showcase-7.png
 - images/showcase/showcase-5.png
