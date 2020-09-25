@@ -15,4 +15,4 @@ sizes:
 image: "/pictures/camera roll/copy-of-warzone-tournament-flyer-made-with-postermywall-1.jpg"
 
 ---
-The Crisis Tournament will be held on October 2nd.
+#### The Crisis Tournament will be held on October 2nd.
